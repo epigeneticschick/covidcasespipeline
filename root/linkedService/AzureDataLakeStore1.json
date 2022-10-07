@@ -1,0 +1,13 @@
+{
+	"name": "AzureDataLakeStore1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDataLakeStore",
+		"typeProperties": {
+			"dataLakeStoreUri": "https://covidcasedatalake.azuredatalakestore.net/webhdfs/v1",
+			"tenant": "3ef7cc24-ad65-4bd7-a6bc-34f32e43989a",
+			"subscriptionId": "99f84891-7609-4672-9b12-6e1d68f74114",
+			"resourceGroupName": "PersonalProjects"
+		}
+	}
+}
